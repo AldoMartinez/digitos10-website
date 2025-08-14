@@ -50,5 +50,6 @@ Additionally, you can enter your city’s **LADA code** to automatically add it 
 - Permission to access contacts
 
 ## Installation
-Dígitos 10 is available on the **App Store**:  
-[Download here](https://apps.apple.com/us/app/d%C3%ADgitos-10/id1478253337?platform=iphone)
+Dígitos 10 is available on the **App Store** and **PlayStore**:  
+- [AppStore](https://apps.apple.com/us/app/d%C3%ADgitos-10/id1478253337?platform=iphone)
+- [PlayStore](https://play.google.com/store/apps/details?id=com.aldomartinez.digitos10&hl=en_US)
